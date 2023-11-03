@@ -376,7 +376,7 @@ body {
 
 .title {
   top: 9px;
-  left: 135px;
+  left: 140px;
   width: 765px;
   height: 716px;
   position: absolute;
@@ -764,7 +764,8 @@ body {
 }
 
 .header {
-  background: #450d04;
+  /* background: #450d04; */
+  background: #ffd62b;
   border-bottom: 0.1px solid #ffea667d;
 }
 
