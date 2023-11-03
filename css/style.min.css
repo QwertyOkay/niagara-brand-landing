@@ -767,6 +767,9 @@ body {
   /* background: #450d04; */
   background: #ffd62b;
   border-bottom: 0.1px solid #ffea667d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo {
