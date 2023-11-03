@@ -151,7 +151,7 @@ body {
 }
 
 .header {
-  height: 60px;
+  height: 70px;
   z-index: 1000;
   display: grid;
   -webkit-box-align: center;
