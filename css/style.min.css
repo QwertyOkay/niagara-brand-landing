@@ -375,12 +375,12 @@ body {
 }
 
 .title {
-  top: 9px;
-  left: 140px;
+  top: -5px;
+  left: 110px;
   width: 765px;
   height: 716px;
   position: absolute;
-  /* background: url("../images/titile.png"); */
+  /* background: url(../images/titile.png); */
   z-index: 4;
 }
 
@@ -783,7 +783,7 @@ body {
   background: url("../images/wheel.gif");
   /* background: url("../images/titile.png"); */
   background-size: cover;
-  background-size: 680px 680px;
+  background-size: 735px 735px;
   background-repeat: no-repeat;
 }
 
