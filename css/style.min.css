@@ -791,6 +791,7 @@ body {
 .bg {
   background-size: cover;
   height: 925px;
+  overflow-x: hidden;
 }
 
 .getIt {
